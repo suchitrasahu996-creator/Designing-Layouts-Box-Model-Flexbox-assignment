@@ -1,0 +1,39 @@
+.body{
+    font-family: Arial,sans-serif;
+    background: whitesmoke;
+}
+.main-box{
+    width: 320px;
+    margin: 40px auto;
+    padding: 30px;
+    background: lightblue;
+    border-radius: 20px;
+    display: block;
+    box-sizing: border-box;
+}
+.title{
+    text-align: center;
+    margin: black;
+    color:green;
+    font-size: 25px;
+
+}
+.Box{
+    background: yellowgreen;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    display: block;
+    box-shadow: rgb(0, 0, 0);
+}
+.Box p{
+    margin: 0 0 10px 0;
+    color:black;
+    text-align: center;
+}
+.h3{
+    margin: 0;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
